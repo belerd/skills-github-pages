@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "My first flog"
-date: 2026-05-07
-future: true
+title: "中文测试"
+date: 2026-05-08
 ---
 
-弄了半天啊，总算ok了，可能是配置环境有问题
+这是一段中文正文。如果这行字能显示，说明中文没问题。
