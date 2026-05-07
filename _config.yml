@@ -2,7 +2,7 @@
 layout: post
 title: "My first flog"
 date: 2026-05-07
-categories: 分类名称
+future: true
 ---
 
 弄了半天啊，总算ok了，可能是配置环境有问题
